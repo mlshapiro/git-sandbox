@@ -28,7 +28,7 @@ In my **working copy**, i've removed lines (in red) and added lines (in green)
 
 ## VCS Programs
 
-**Git** and **SVN** are the two VCS programs we use here at Creare
+**Git** and **SVN** are the two VCS programs we use here
 
 Both programs come with a full set of command line tools, though there are many tools to provide a GUI for them
 
@@ -163,7 +163,7 @@ Use a sandbox to explore **git** and **svn**
 
 #### Git
 
-- **Clone (checkout)** the [sandbox](https://code.crearecomputing.com/general/sandbox.git)
+- **Clone (checkout)** the [sandbox](https://github.com/mlshapiro/git-sandbox.git)
 - **Commit** a change to your local repository
 - **Branch** your local repository
 	- **Commit** multiple changes to your branch
